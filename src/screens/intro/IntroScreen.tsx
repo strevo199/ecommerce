@@ -5,7 +5,7 @@ import { RootNavigationProps } from 'src/navigation/type'
 export const IntroScreen = ({navigation}: RootNavigationProps<"IntroScreen">) => {
   return (
     <View>
-      <Text>IntroScreen</Text>
+      <Text>IntroScree</Text>
     </View>
   )
 }
